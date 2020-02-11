@@ -1,0 +1,4 @@
+ID: 1, Name: Amro, Major: IT, Grade: 4045.0
+ID: 2, Name: Mohammed, Major: IT, Grade: 3721.4
+ID: 3, Name: Ahmed, Major: Art, Grade: 3445.0
+ID: 4, Name: Ismail, Major: Art, Grade: 3241.1
